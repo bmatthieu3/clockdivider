@@ -1,6 +1,4 @@
-# NablaSynth - Clock Divider module
-
-See it in action [here](https://youtu.be/5VTIWuq25X8)! 
+# Clock Divider module - Demo [here](https://youtu.be/5VTIWuq25X8)
 
 A clock divider is usually a very important module in a modular synth as it can allow you to give the tempo to many other modules of your synth.
 Here are some useful examples showing why it can be good to have a clock divider:
