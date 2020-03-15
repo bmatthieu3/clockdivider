@@ -7,7 +7,7 @@ Here are some useful examples showing why it can be good to have a clock divider
 * Do Polyrhythm thanks to impair dividing ratio: /3, /5, /7!
 * Mess a little bit the rythm thanks to a CV rotating input. This input accepts 0->5 volts. 0 volt means the outputs are not rotated, the first output gives a clock having the same frequency, the second one having half the input clock frequency, the third having one-third of the frequency... 5/8 volt will rotate the outputs of one output: the first output will be one-eight of the input clock frequency, the second output will give the same frequency, the third output will give the half of the input frequency... the eight's output will give one-seven of the first frequency.
 
-# What does this repo contains
+# What does this repo contain
 
 * The code for the Atmega328p in clock_divider.ino
 * The electrical scheme for the module openable with kicad
@@ -17,7 +17,7 @@ Here are some useful examples showing why it can be good to have a clock divider
 * The .stl file of the interface plate (made with blender)
 * The .stl transformed in .gcode to print it.
 
-# What does it looks like
+# What does it look like
 ![front](https://github.com/bmatthieu3/clockdivider/blob/master/images/front%20panel.jpg)
 ![back](https://github.com/bmatthieu3/clockdivider/blob/master/images/back.jpg)
 ![side](https://github.com/bmatthieu3/clockdivider/blob/master/images/side.jpg)
