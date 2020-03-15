@@ -17,6 +17,7 @@ Here are some useful examples showing why it can be good to have a clock divider
 * The .stl transformed in .gcode to print it.
 
 # What does it looks like
-
-
+![front](https://github.com/bmatthieu3/clockdivider/blob/master/images/front%20panel.jpg)
+![back](https://github.com/bmatthieu3/clockdivider/blob/master/images/back.jpg)
+![side](https://github.com/bmatthieu3/clockdivider/blob/master/images/side.jpg)
 
